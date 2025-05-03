@@ -16,6 +16,9 @@ The app does not collect, store, or transmit any personal data from users. All d
 Advertising
 GrocerTrace uses Google AdMob to display advertisements. Google may collect limited information, such as device identifiers, to provide personalized and relevant ads.
 
+Currency Exchange Rates
+GrocerTrace retrieves publicly available currency exchange rate data from public websites or sources to display price information in multiple currencies. No personal information is collected or shared during this process.
+
 For more information on how Google uses data, please refer to Google's Privacy Policy:
 https://policies.google.com/privacy
 
