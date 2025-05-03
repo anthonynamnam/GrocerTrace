@@ -1,4 +1,13 @@
-# GrocerTrace App Privacy Policy
+# GrocerTrace App Support & Privacy Policy
+
+## Support
+If you encounter any issues or have questions about this app, please contact us:
+
+Email: ueuenam@gmail.com
+
+We will respond as soon as possible.
+
+## Privacy Policy
 
 **GrocerTrace respects your privacy.**
 
