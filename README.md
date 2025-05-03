@@ -1,8 +1,6 @@
-# GrocerTrace — Grocery Expense & Price Tracking App for iPhone & iPad
+# GrocerTrace — Grocery Expense & Price Tracking App for iPhone
 
-[![Download on the App Store](https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2015-04-02&kind=iossoftware&bubble=ios_apps)](https://apps.apple.com/app/idYOUR_APP_ID)
-
-GrocerTrace is your all-in-one **grocery price tracker** and **expense manager** for iPhone and iPad.  
+GrocerTrace is your all-in-one **grocery price tracker** and **expense manager** for iPhone.  
 Keep track of your grocery spending, compare store prices, and manage your grocery list easily.  
 Perfect for families, budget shoppers, and anyone who wants to save money on groceries.
 
