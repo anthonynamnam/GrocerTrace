@@ -1,29 +1,54 @@
-# GrocerTrace App Support & Privacy Policy
+# GrocerTrace — Grocery Expense & Price Tracking App for iPhone & iPad
 
-## Support
+[![Download on the App Store](https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2015-04-02&kind=iossoftware&bubble=ios_apps)](https://apps.apple.com/app/idYOUR_APP_ID)
+
+GrocerTrace is your all-in-one **grocery price tracker** and **expense manager** for iPhone and iPad.  
+Keep track of your grocery spending, compare store prices, and manage your grocery list easily.  
+Perfect for families, budget shoppers, and anyone who wants to save money on groceries.
+
+---
+
+## 📲 Download Now
+
+**App Store:** [Download GrocerTrace](https://apps.apple.com/app/idYOUR_APP_ID)
+
+---
+
+## 📌 Key Features
+
+- Track grocery expenses and view price trends
+- Manage a grocery list with price history
+- Support for multiple currencies with automatic exchange rates
+- Local data storage — your privacy is protected
+- Display ads via Google AdMob (with limited data collection)
+
+---
+
+## 📞 Support
+
 If you encounter any issues or have questions about this app, please contact us:
 
-Email: ueuenam@gmail.com
-
+**Email:** ueuenam@gmail.com  
 We will respond as soon as possible.
 
-## Privacy Policy
+---
 
-**GrocerTrace respects your privacy.**
+## 🔒 Privacy Policy
 
-The app does not collect, store, or transmit any personal data from users. All data is saved locally on your device and is never shared with the developer or any third party.
+GrocerTrace respects your privacy.
 
-Advertising
-GrocerTrace uses Google AdMob to display advertisements. Google may collect limited information, such as device identifiers, to provide personalized and relevant ads.
+- No personal data is collected or shared.
+- All app data is stored locally on your device.
+- Google AdMob is used to display ads and may collect limited device information.
 
-Currency Exchange Rates
-GrocerTrace retrieves publicly available currency exchange rate data from public websites or sources to display price information in multiple currencies. No personal information is collected or shared during this process.
+**Currency Exchange Rates:**  
+GrocerTrace retrieves publicly available currency exchange rate data to help you view expenses in multiple currencies.
 
-For more information on how Google uses data, please refer to Google's Privacy Policy:
-https://policies.google.com/privacy
+For more information on how Google uses data, please read:  
+[Google Privacy Policy](https://policies.google.com/privacy)
 
-Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
-ueuenam@gmail.com
+---
 
-Effective Date: 2025 May 02
+## 📅 Effective Date
+
+2025 May 02
