@@ -8,7 +8,7 @@ Perfect for families, budget shoppers, and anyone who wants to save money on gro
 
 ## 📲 Download Now
 
-**App Store:** [Download GrocerTrace](https://apps.apple.com/app/idYOUR_APP_ID)
+**App Store:** [Download GrocerTrace](https://apps.apple.com/app/id6744857231)
 
 ---
 
